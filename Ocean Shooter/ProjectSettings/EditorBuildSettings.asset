@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Menu.unity
+    guid: 297468f7fd28c4c509f5ddf864beada7
+  - enabled: 1
+    path: Assets/Scenes/Ocean Shooter.unity
+    guid: ee16bf930eb5a492e95835efe2337252
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 8457ab0b7a2bc4cef803850186241d44
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: e7ba025788d6944919b73c78f73c96b5
+  m_configObjects: {}

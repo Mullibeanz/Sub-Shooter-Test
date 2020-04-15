@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1990ed3a446ab4534a1e9da90fb1ef4f, type: 3}
+  m_Name: Plane (14)
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 6232037010288921239, guid: b0b8283c601bb4c428ceb5fd2a4f4e4b,
+    type: 3}
+  pathPrefab: {fileID: 635640563632193605, guid: 862aa8c787044473ab1ea0e136cc1518,
+    type: 3}
+  timeBetweenSpwans: 1
+  spawnRandomFactor: 0.3
+  numberOfEnemies: 2
+  moveSpeed: 7

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1990ed3a446ab4534a1e9da90fb1ef4f, type: 3}
+  m_Name: Left Plane (10)
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 7393283824583357186, guid: a31c096887d4b4ed6b3b64c6fdcf976c,
+    type: 3}
+  pathPrefab: {fileID: 635640563632193605, guid: 1db059085d7cb4b618f4a56c0cc890ea,
+    type: 3}
+  timeBetweenSpwans: 1
+  spawnRandomFactor: 0.3
+  numberOfEnemies: 3
+  moveSpeed: 7
